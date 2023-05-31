@@ -29,3 +29,7 @@ data class Contact(
 )
 
 ```
+
+This code repository is integrated with Bitrise. It automatically create or generate build for every changes in the master branch. 
+
+
